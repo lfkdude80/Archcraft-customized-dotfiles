@@ -27,3 +27,8 @@ Built for a minimal, clean workflow with a dark monochrome aesthetic.
 ## Notes
 Base Archcraft install. Most stock files untouched.
 These dotfiles only track my actual customizations.
+
+## Theme
+- **Style:** Catppuccin-Frappe
+- **Icons:** Zafiro Nord Green
+- **Font:** JetBrainsMono Medium
