@@ -1,0 +1,2 @@
+#!/bin/sh
+feh --no-fehbg --bg-fill '/home/lfkdude80/.config/bspwm/themes/default/wallpaper' 

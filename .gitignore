@@ -1,0 +1,25 @@
+# Sensitive
+**/credentials
+**/secret
+**/*token*
+**/*password*
+**/*passwd*
+
+# Cache & junk
+**/__pycache__/
+**/.cache/
+**/cache/
+*.log
+*.bak
+*.swp
+*~
+
+# Large/unnecessary
+**/node_modules/
+**/.npm/
+*.iso
+*.img
+
+# System
+.DS_Store
+Thumbs.db
